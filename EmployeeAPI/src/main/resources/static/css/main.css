@@ -1,0 +1,38 @@
+body {
+    background-color: #F0EDED;
+}
+
+#right-container {
+    background-color: #FFFFFF;
+}
+
+a,
+a:hover {
+    color: #7C7BAD;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
+
+.errorText{
+	color: red;
+}
+
+
+.logo {
+    display: block;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+
+.btn-purple,
+.btn-purple:focus,
+.btn-purple:active,
+.btn-purple:hover {
+    background-color: #7C7BAD;
+    border: 0;
+    border-radius: 2px;
+    color: #fff;
+}
